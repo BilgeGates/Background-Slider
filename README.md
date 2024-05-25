@@ -1,4 +1,4 @@
-<h1 align="center">Background Sldier</h1>
+<h1 align="center">Background Slider</h1>
 <p>The "Background Slider" project is a website created using HTML, CSS, and JavaScript </p>
 <hr />
 <img src="./assets/project/projectimg.jpg" >
